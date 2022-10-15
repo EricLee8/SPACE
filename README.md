@@ -25,3 +25,21 @@ CUDA Version: 11.4
 GPU: RTX 3090 24G
 ```
 We strongly recommand that you run the experiments on the same environment to ensure the reproductivity.
+
+## Citation
+If you find our paper and repository useful, please cite us in your paper:
+```
+@inproceedings{li-etal-2022-semantic,
+    title = "Semantic-Preserving Adversarial Code Comprehension",
+    author = "Li, Yiyang  and
+      Wu, Hongqiu  and
+      Zhao, Hai",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.267",
+    pages = "3017--3028",
+}
+```
