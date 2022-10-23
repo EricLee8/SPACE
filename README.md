@@ -1,5 +1,5 @@
 # Codes for COLING 2022
-This repository contains the official codes for our paper at COLING 2022: [Semantic-Preserving Adversarial Code Comprehension](https://arxiv.org/abs/2108.10015).
+This repository contains the official codes for our paper at COLING 2022: [Semantic-Preserving Adversarial Code Comprehension](https://aclanthology.org/2022.coling-1.267/).
 
 ## Overview
 We conduct our experiments on three datasets: Defects4J for Defect Detection, CodeSearchNet for Natural Language Code Search and CodeQA for Question Answering over Source Code.
